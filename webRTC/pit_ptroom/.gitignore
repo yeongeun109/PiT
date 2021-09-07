@@ -24,4 +24,4 @@ hs_err_pid*
 target/
 .vscode/*
 
-./src/main/resources/application.properties
+src/main/resources/
