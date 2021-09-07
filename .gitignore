@@ -26,5 +26,5 @@ package-lock.json
 # UserServiceImpl.java - 파일 업로드 경로
 
 # backend/src/main/java/com/ssafy/pit/service/UserServiceImpl.java
-webRTC/pit_ptroom/src/resources/
-backend/src/main/resources/
+webRTC/pit_ptroom/src/main/resources/application.properties
+backend/src/main/resources/application.properties
